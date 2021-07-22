@@ -1,8 +1,8 @@
-<h1 align="centre">LoungeMusic 🎵</h1>
+<h1 align="centre">Reisler Müzik 🎵</h1>
 
 ### Telegram grubunun sesli Sohbetinde müzik çalabilen bir bot
 
-### Bu music botunun 1. Versionu [LoungeMusic]
+### Bu music botunun 1. Versionu [Reisler Müzik]
 
 <p align="center">
   <img src="">
