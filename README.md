@@ -14,18 +14,18 @@
 Heroku'ya dağıtmaya tıklamadan önce çatalı ve hemen altındaki yıldıza tıklayın.
 
 <p align="center">
-  <a href="https://github.com/bodrumlu48/MisakiMusicBot/fork">
-    <img src="https://img.shields.io/github/forks/bodrumlu48/MisakiMusicBot?label=Fork&style=social">
+  <a href="https://github.com/ReislerSupport/reislermuzik/fork">
+    <img src="https://img.shields.io/github/ReislerSupport/reislermuzik?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/matesa/MisakiMusicBot">
-    <img src="https://img.shields.io/github/stars/bodrumlu48/MisakiMusicBot?style=social">
+  <a href="https://github.com/matesa/ReislerMuzikbot">
+    <img src="https://img.shields.io/github/stars/ReislerSupport/ReislerMuzikBot?style=social">
   </a>
 </p>
 
 ### Deploy To Heroku</h4>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/bodrumlu48/MisakiMusicBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ReislerSupport/reislermuzik"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
 
 
 
@@ -44,7 +44,7 @@ Heroku'ya dağıtmaya tıklamadan önce çatalı ve hemen altındaki yıldıza t
 ### Komutlar 🛠
 #### Gruptaki herkes için
 
-- `/play <song name>` - istediğin şarkıyı çal
+- `/oynat <song name>` - istediğin şarkıyı çal
 - `/dplay <song name>` - deezer aracılığıyla istediğiniz şarkıyı çalın
 - `/splay <song name>` - jio saavn aracılığıyla istediğiniz şarkıyı çalın
 - `/playlist` - Şimdi çalma listesini göster
